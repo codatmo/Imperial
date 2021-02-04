@@ -1,3 +1,5 @@
+The following was provided by Swapnil Mishra and copied from https://github.com/s-mishra/bench-marking-samplers-covid on 4th Feb 21. 
+
 # bench-marking-samplers-covid
 Code from our covid19 model to be used for benchmarking various samplers.
 
